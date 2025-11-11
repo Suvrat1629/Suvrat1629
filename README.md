@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Springboot and Open Source<br>👯 I’m looking to collaborate on Backend projects<br>🤝 I’m looking for help with Flask and Django
+🔭 I’m currently working on Springboot and Open Source<br>👯 I’m looking to collaborate on Backend projects<br>🤝 I’m looking for help with Go and Open-Source projects
 
 
 ## 🌐 Socials:
